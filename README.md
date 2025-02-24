@@ -1,2 +1,2 @@
 # API
-Node connection with data string data and hitting postman APi 
+Node connection with database, storing data in database with hitting postman APi 
